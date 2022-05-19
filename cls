@@ -1,4 +1,16 @@
-[33mcommit 511ae32261b99493f3c6b932e3906c368c02c6fa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[33mcommit a2936501cbbbc9b368a8d0f512450d871f265f8b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: oznerT <renzoetari@gmail.com>
+Date:   Thu May 19 17:30:04 2022 -0300
+
+    finish homework 1
+
+[33mcommit cdbdf9a0aceb5a1908e2b9d817eff6267a27b6da[m
+Author: oznerT <renzoetari@gmail.com>
+Date:   Thu May 19 16:55:07 2022 -0300
+
+    finish homwork 1
+
+[33mcommit 511ae32261b99493f3c6b932e3906c368c02c6fa[m
 Author: oznerT <renzoetari@gmail.com>
 Date:   Thu May 19 16:30:39 2022 -0300
 
@@ -266,15 +278,4 @@ Date:   Thu Mar 18 12:40:42 2021 -0300
     Fix numeroMasGrande
 
 [33mcommit a20e32c06d4c60b55edd0ca41e44210864e692f1[m
-Author: Gustavo Martinez Trejo <gus.d0c.09@gmail.com>
-Date:   Wed Mar 17 17:53:59 2021 -0300
-
-    fix CuentoElementos
-
-[33mcommit 8b42d1a1a861b1790d0574edc58363f582f8f192[m
-Author: Elena Note <elebeatrizgonzalez@gmail.com>
-Date:   Wed Feb 3 11:48:23 2021 -0300
-
-    Arregla enunciado 02-JS-I
-
-[33mcommit a1e3bdc26cd1a20bc4cb565
+Author: Gustavo M
