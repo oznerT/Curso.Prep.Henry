@@ -36,7 +36,7 @@ function forEach(array, cb) {
   // Itera sobre la matriz "array" y pasa los valores al callback uno por uno
   // Pista: Estarás invocando a `cb` varias veces (una por cada valor en la matriz)
   //Tu código:
-  array.forEach(function(ele){
+  array.forEach(function(ele){ // Basicamente el ejercicio pide someter a cada elemento a ser el argumento de callback
     cb(ele);
     });
 }
@@ -64,7 +64,7 @@ function filter(array) {
 }
 
 // No modificar nada debajo de esta línea
-// --------------------------------
+// ------------------------------------
 
 module.exports = {
   mayuscula,
