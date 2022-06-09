@@ -9,7 +9,7 @@ function crearUsuario() {
   // Devuelve la clase
   // Tu código:
     function Usuario(opciones){
-      this.usuario=opciones.usuario, // Hacemos esa igualacion ya que el objeto opciones ya viene con un nombre incluido, entonces no hace falta definirlo antes ni pasarle ese parametro ya que ya se encuentra dentro de opcoiones.
+      this.usuario=opciones.usuario, // Hacemos esa igualacion ya que el objeto opciones ya viene con un nombre incluido, entonces no hace falta definirlo antes ni pasarle ese parametro ya que ya se encuentra dentro de opciones.
       this.nombre=opciones.nombre,
       this.email=opciones.email,
       this.password=opciones.password
